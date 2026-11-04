@@ -1,14 +1,18 @@
-<h1 align="left">Hey Dev 👋</h1>
+<img align="right" width="400" height="400"
+src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
+# Welcome!
+## I'm Rafael! Let me present a little about myself :D
+Full-Stack focused on Java, Spring Boot, React & Next.js | Software engineer :robot:
+Lover of Technology and coding :heart:
+## About me
 
-###
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-
+square&logo=Github&logoColor=white&link=https://github.com/rafaelsalmeida-dev)]
 
-<p align="left">My name is Rafael Almeida and I'm a software developer.</p>
+(https://github.com/rafaelsalmeida-dev)
 
-###
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-
+square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/rafael-almeida-a17064322)](www.linkedin.com/in/rafael-almeida-a17064322)
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">I am a Junior Software Developer and recent Computer Science graduate from Universidade Federal Rural do Rio de Janeiro (UFRRJ). My core focus is on building robust, scalable backend systems and web applications using Java and Spring Boot. I am passionate about software architecture, clean code, and leveraging modern tools to deliver high-performance solutions that solve real-world problems.</p>
-
+- Thanks for visiting.
+- Enjoy it!! o/
