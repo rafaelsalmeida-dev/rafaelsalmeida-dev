@@ -1,4 +1,3 @@
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNydWJjcGJkMDliY2FucWQ2c3IxMWc5ZHp2Znk4dW1sMms4ODVjeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif">
 # Welcome!
 ## I'm Rafael! Let me present a little about myself :D
 Full-Stack focused on Java, Spring Boot, React & Next.js | Software engineer :robot:
